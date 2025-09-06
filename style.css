@@ -1,0 +1,35 @@
+
+
+body{
+    background-image: url('rk_2.jpeg');
+    background-repeat: no-repeat;
+
+}
+h1
+{
+    color: rgb(255, 64, 0);
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    /*text-indent: 50px;*/
+     letter-spacing: 10px;
+     background-color: yellow;
+
+}  
+p{
+    color: rgb(0, 17, 255);
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 15px;
+    word-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: normal;
+    
+}
+a
+{
+     text-decoration: underline;
+     color: black;
+     font-weight: bold;
+}
